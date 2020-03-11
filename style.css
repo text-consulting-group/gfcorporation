@@ -1599,7 +1599,7 @@ body:not(.device-md):not(.device-sm):not(.device-xs) #primary-menu.style-2.cente
 		text-align: center;
 		margin: 0;
 		float: none;
-		height: 100px;
+		height: 75px;
 	}
 
 	#header.split-menu #logo a.standard-logo { display: inline-block; }
@@ -2233,7 +2233,7 @@ body.top-search-open #top-account { opacity: 0; }
 }
 
 #header.static-sticky ~ #page-menu.sticky-page-menu #page-menu-wrap,
-#header.static-sticky ~ #content #page-menu.sticky-page-menu #page-menu-wrap { top: 100px; }
+#header.static-sticky ~ #content #page-menu.sticky-page-menu #page-menu-wrap { top: 75px; }
 
 #header ~ #page-menu.sticky-page-menu #page-menu-wrap,
 #header.no-sticky ~ #page-menu.sticky-page-menu #page-menu-wrap,
